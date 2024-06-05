@@ -1,0 +1,47 @@
+{
+  "commands": [
+    {"action": "move_to_position", "position": [0, 0, 0, 0, 0, 0], "speed": 30}
+  ]
+}
+
+{
+  "commands": [
+    {"action": "operate_gripper", "state": "open"}
+  ]
+}
+
+{
+  "commands": [
+    {"action": "move_to_position", "position": [-90, 90, -100, 0, 0, -60], "speed": 30}
+  ]
+}
+
+{
+  "commands": [
+    {"action": "operate_gripper", "state": "close"}
+  ]
+}
+
+{
+  "commands": [
+    {"action": "draw_letter_c"}
+  ]
+}
+
+{
+  "commands": [
+    {"action": "move_to_position", "position": [90, 90, -100, 0, 0, -60], "speed": 30}
+  ]
+}
+
+{
+  "commands": [
+    {"action": "operate_gripper", "state": "open"}
+  ]
+}
+
+{
+  "commands": [
+    {"action": "move_to_position", "position": [0, 0, 0, 0, 0, 0], "speed": 30}
+  ]
+}
